@@ -7,6 +7,7 @@ The Weather App is a web application that provides users with up-to-date weather
 - Real-time weather information: Users can view current weather conditions, temperature, wind speed, and more for their location or any other city.
 - AccuWeather API integration: The app utilizes the AccuWeather API to fetch accurate weather data.
 - Local storage implementation: User's last request is stored locally to enhance user experience.
+- Code features: applied OOP principles.
 - Usage limit: Due to API restrictions, users can make only 50 requests per day.
 
 ## How to Use 🖖
